@@ -52,5 +52,5 @@ connection is active.
 Open the project in STM32CubeIDE and flash via the onboard ST-Link.
 
 
-
+https://deepbluembedded.com/stm32-hc-05-bluetooth-module-examples/
 ----------------------------------------------------------
